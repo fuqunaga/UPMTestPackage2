@@ -7,5 +7,6 @@
     "keywords": ["Test"],
     "category": "Test",
     "dependencies": {
+        "ga.fuquna.upmtestpackage": "https://github.com/fuqunaga/UPMTestPackage.git"
     }
 }
