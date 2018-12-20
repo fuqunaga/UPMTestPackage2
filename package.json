@@ -1,0 +1,11 @@
+{
+    "name": "ga.fuquna.upmtestpackage2",
+    "displayName": "UPM Test 2",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "This package is\nfor testing package manager.",
+    "keywords": ["Test"],
+    "category": "Test",
+    "dependencies": {
+    }
+}
